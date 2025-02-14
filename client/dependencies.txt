@@ -1,0 +1,15 @@
+client@0.0.0 D:\NIE\projects\skill development\4 sem\Jan2025SDP\day5-personalWebapp\Pizza-Lo-Ji\client
+├── @eslint/js@9.20.0
+├── @types/react-dom@19.0.3
+├── @types/react@19.0.8
+├── @vitejs/plugin-react@4.3.4
+├── axios@1.7.9
+├── eslint-plugin-react-hooks@5.1.0
+├── eslint-plugin-react-refresh@0.4.19
+├── eslint-plugin-react@7.37.4
+├── eslint@9.20.0
+├── globals@15.14.0
+├── react-dom@19.0.0
+├── react-router-dom@7.1.5
+├── react@19.0.0
+└── vite@6.1.0
